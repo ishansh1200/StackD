@@ -1,0 +1,630 @@
+[
+  {
+    "id": "aceternity-glowing-card",
+    "name": "Glowing Background Stars Card",
+    "category": "card",
+    "library": "Aceternity UI",
+    "libraryUrl": "https://ui.aceternity.com",
+    "previewUrl": "https://ui.aceternity.com/components/glowing-stars-background-card",
+    "thumbnailUrl": "/thumbnails/aceternity-glowing-card.webp",
+    "tags": [
+      "animated",
+      "glow",
+      "dark"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "aceternity-aurora-background",
+    "name": "Aurora Background",
+    "category": "background",
+    "library": "Aceternity UI",
+    "libraryUrl": "https://ui.aceternity.com",
+    "previewUrl": "https://ui.aceternity.com/components/aurora-background",
+    "thumbnailUrl": "/thumbnails/aceternity-aurora-background.webp",
+    "tags": [
+      "gradient",
+      "animated",
+      "background"
+    ],
+    "styleType": "gradient",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "aceternity-typewriter-effect",
+    "name": "Typewriter Effect",
+    "category": "text-effect",
+    "library": "Aceternity UI",
+    "libraryUrl": "https://ui.aceternity.com",
+    "previewUrl": "https://ui.aceternity.com/components/typewriter-effect",
+    "thumbnailUrl": "/thumbnails/aceternity-typewriter-effect.webp",
+    "tags": [
+      "text",
+      "typing",
+      "animated"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "aceternity-wavy-background",
+    "name": "Wavy Background",
+    "category": "background",
+    "library": "Aceternity UI",
+    "libraryUrl": "https://ui.aceternity.com",
+    "previewUrl": "https://ui.aceternity.com/components/wavy-background",
+    "thumbnailUrl": "/thumbnails/aceternity-wavy-background.webp",
+    "tags": [
+      "waves",
+      "animated"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "aceternity-hero-parallax",
+    "name": "Hero Parallax",
+    "category": "hero",
+    "library": "Aceternity UI",
+    "libraryUrl": "https://ui.aceternity.com",
+    "previewUrl": "https://ui.aceternity.com/components/hero-parallax",
+    "thumbnailUrl": "/thumbnails/aceternity-hero-parallax.webp",
+    "tags": [
+      "hero",
+      "parallax",
+      "scroll"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "aceternity-spotlight",
+    "name": "Spotlight",
+    "category": "hero",
+    "library": "Aceternity UI",
+    "libraryUrl": "https://ui.aceternity.com",
+    "previewUrl": "https://ui.aceternity.com/components/spotlight",
+    "thumbnailUrl": "/thumbnails/aceternity-spotlight.webp",
+    "tags": [
+      "lighting",
+      "hero",
+      "minimal"
+    ],
+    "styleType": "minimal",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "subtle",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "magic-ui-bento-grid",
+    "name": "Bento Grid",
+    "category": "card",
+    "library": "Magic UI",
+    "libraryUrl": "https://magicui.design",
+    "previewUrl": "https://magicui.design/docs/components/bento-grid",
+    "thumbnailUrl": "/thumbnails/magic-ui-bento-grid.webp",
+    "tags": [
+      "grid",
+      "layout",
+      "cards"
+    ],
+    "styleType": "minimal",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "subtle",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "magic-ui-marquee",
+    "name": "Marquee",
+    "category": "hero",
+    "library": "Magic UI",
+    "libraryUrl": "https://magicui.design",
+    "previewUrl": "https://magicui.design/docs/components/marquee",
+    "thumbnailUrl": "/thumbnails/magic-ui-marquee.webp",
+    "tags": [
+      "scrolling",
+      "infinite",
+      "animated"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "magic-ui-meteors",
+    "name": "Meteors",
+    "category": "background",
+    "library": "Magic UI",
+    "libraryUrl": "https://magicui.design",
+    "previewUrl": "https://magicui.design/docs/components/meteors",
+    "thumbnailUrl": "/thumbnails/magic-ui-meteors.webp",
+    "tags": [
+      "stars",
+      "falling",
+      "background"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "magic-ui-shimmer-button",
+    "name": "Shimmer Button",
+    "category": "button",
+    "library": "Magic UI",
+    "libraryUrl": "https://magicui.design",
+    "previewUrl": "https://magicui.design/docs/components/shimmer-button",
+    "thumbnailUrl": "/thumbnails/magic-ui-shimmer-button.webp",
+    "tags": [
+      "glow",
+      "button",
+      "hover-effect"
+    ],
+    "styleType": "glassmorphism",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "magic-ui-retro-grid",
+    "name": "Retro Grid",
+    "category": "background",
+    "library": "Magic UI",
+    "libraryUrl": "https://magicui.design",
+    "previewUrl": "https://magicui.design/docs/components/retro-grid",
+    "thumbnailUrl": "/thumbnails/magic-ui-retro-grid.webp",
+    "tags": [
+      "grid",
+      "retro",
+      "lines"
+    ],
+    "styleType": "minimal",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "subtle",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "magic-ui-gradual-spacing",
+    "name": "Gradual Spacing Text",
+    "category": "text-effect",
+    "library": "Magic UI",
+    "libraryUrl": "https://magicui.design",
+    "previewUrl": "https://magicui.design/docs/components/gradual-spacing",
+    "thumbnailUrl": "/thumbnails/magic-ui-gradual-spacing.webp",
+    "tags": [
+      "text",
+      "reveal",
+      "animated"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "shadcn-button",
+    "name": "Button",
+    "category": "button",
+    "library": "shadcn/ui",
+    "libraryUrl": "https://ui.shadcn.com",
+    "previewUrl": "https://ui.shadcn.com/docs/components/button",
+    "thumbnailUrl": "/thumbnails/shadcn-button.webp",
+    "tags": [
+      "minimal",
+      "accessible",
+      "core"
+    ],
+    "styleType": "minimal",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "subtle",
+    "darkModeSupport": true,
+    "embeddable": false
+  },
+  {
+    "id": "shadcn-dialog",
+    "name": "Dialog",
+    "category": "modal",
+    "library": "shadcn/ui",
+    "libraryUrl": "https://ui.shadcn.com",
+    "previewUrl": "https://ui.shadcn.com/docs/components/dialog",
+    "thumbnailUrl": "/thumbnails/shadcn-dialog.webp",
+    "tags": [
+      "modal",
+      "overlay",
+      "accessible"
+    ],
+    "styleType": "minimal",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "subtle",
+    "darkModeSupport": true,
+    "embeddable": false
+  },
+  {
+    "id": "shadcn-accordion",
+    "name": "Accordion",
+    "category": "card",
+    "library": "shadcn/ui",
+    "libraryUrl": "https://ui.shadcn.com",
+    "previewUrl": "https://ui.shadcn.com/docs/components/accordion",
+    "thumbnailUrl": "/thumbnails/shadcn-accordion.webp",
+    "tags": [
+      "collapse",
+      "expand",
+      "minimal"
+    ],
+    "styleType": "minimal",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "subtle",
+    "darkModeSupport": true,
+    "embeddable": false
+  },
+  {
+    "id": "shadcn-input",
+    "name": "Input",
+    "category": "input",
+    "library": "shadcn/ui",
+    "libraryUrl": "https://ui.shadcn.com",
+    "previewUrl": "https://ui.shadcn.com/docs/components/input",
+    "thumbnailUrl": "/thumbnails/shadcn-input.webp",
+    "tags": [
+      "form",
+      "field",
+      "minimal"
+    ],
+    "styleType": "minimal",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "none",
+    "darkModeSupport": true,
+    "embeddable": false
+  },
+  {
+    "id": "shadcn-badge",
+    "name": "Badge",
+    "category": "badge",
+    "library": "shadcn/ui",
+    "libraryUrl": "https://ui.shadcn.com",
+    "previewUrl": "https://ui.shadcn.com/docs/components/badge",
+    "thumbnailUrl": "/thumbnails/shadcn-badge.webp",
+    "tags": [
+      "pill",
+      "tag",
+      "minimal"
+    ],
+    "styleType": "minimal",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "none",
+    "darkModeSupport": true,
+    "embeddable": false
+  },
+  {
+    "id": "shadcn-card",
+    "name": "Card",
+    "category": "card",
+    "library": "shadcn/ui",
+    "libraryUrl": "https://ui.shadcn.com",
+    "previewUrl": "https://ui.shadcn.com/docs/components/card",
+    "thumbnailUrl": "/thumbnails/shadcn-card.webp",
+    "tags": [
+      "container",
+      "minimal"
+    ],
+    "styleType": "minimal",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "none",
+    "darkModeSupport": true,
+    "embeddable": false
+  },
+  {
+    "id": "reactbits-split-text",
+    "name": "Split Text",
+    "category": "text-effect",
+    "library": "ReactBits",
+    "libraryUrl": "https://www.reactbits.dev",
+    "previewUrl": "https://www.reactbits.dev/text-animations/split-text",
+    "thumbnailUrl": "/thumbnails/reactbits-split-text.webp",
+    "tags": [
+      "text",
+      "reveal",
+      "spring"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "reactbits-blur-text",
+    "name": "Blur Text",
+    "category": "text-effect",
+    "library": "ReactBits",
+    "libraryUrl": "https://www.reactbits.dev",
+    "previewUrl": "https://www.reactbits.dev/text-animations/blur-text",
+    "thumbnailUrl": "/thumbnails/reactbits-blur-text.webp",
+    "tags": [
+      "text",
+      "blur",
+      "fade"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "subtle",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "reactbits-magnet-lines",
+    "name": "Magnet Lines",
+    "category": "background",
+    "library": "ReactBits",
+    "libraryUrl": "https://www.reactbits.dev",
+    "previewUrl": "https://www.reactbits.dev/backgrounds/magnet-lines",
+    "thumbnailUrl": "/thumbnails/reactbits-magnet-lines.webp",
+    "tags": [
+      "interactive",
+      "cursor",
+      "lines"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "reactbits-squares",
+    "name": "Squares Background",
+    "category": "background",
+    "library": "ReactBits",
+    "libraryUrl": "https://www.reactbits.dev",
+    "previewUrl": "https://www.reactbits.dev/backgrounds/squares",
+    "thumbnailUrl": "/thumbnails/reactbits-squares.webp",
+    "tags": [
+      "grid",
+      "hover",
+      "interactive"
+    ],
+    "styleType": "minimal",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "subtle",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "reactbits-pixel-card",
+    "name": "Pixel Card",
+    "category": "card",
+    "library": "ReactBits",
+    "libraryUrl": "https://www.reactbits.dev",
+    "previewUrl": "https://www.reactbits.dev/components/pixel-card",
+    "thumbnailUrl": "/thumbnails/reactbits-pixel-card.webp",
+    "tags": [
+      "pixels",
+      "hover",
+      "card"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "reactbits-splash-cursor",
+    "name": "Splash Cursor",
+    "category": "background",
+    "library": "ReactBits",
+    "libraryUrl": "https://www.reactbits.dev",
+    "previewUrl": "https://www.reactbits.dev/animations/splash-cursor",
+    "thumbnailUrl": "/thumbnails/reactbits-splash-cursor.webp",
+    "tags": [
+      "fluid",
+      "cursor",
+      "interactive"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "react"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": true
+  },
+  {
+    "id": "uiverse-btn-1",
+    "name": "Cyberpunk Button",
+    "category": "button",
+    "library": "uiverse.io",
+    "libraryUrl": "https://uiverse.io",
+    "previewUrl": "https://uiverse.io/buttons",
+    "thumbnailUrl": "/thumbnails/uiverse-btn-1.webp",
+    "tags": [
+      "cyberpunk",
+      "glitch",
+      "hover"
+    ],
+    "styleType": "brutalist",
+    "framework": [
+      "html"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": false
+  },
+  {
+    "id": "uiverse-loader-1",
+    "name": "Liquid Loader",
+    "category": "loader",
+    "library": "uiverse.io",
+    "libraryUrl": "https://uiverse.io",
+    "previewUrl": "https://uiverse.io/loaders",
+    "thumbnailUrl": "/thumbnails/uiverse-loader-1.webp",
+    "tags": [
+      "liquid",
+      "spin",
+      "infinite"
+    ],
+    "styleType": "glassmorphism",
+    "framework": [
+      "html"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": false
+  },
+  {
+    "id": "uiverse-card-1",
+    "name": "Glassmorphism Card",
+    "category": "card",
+    "library": "uiverse.io",
+    "libraryUrl": "https://uiverse.io",
+    "previewUrl": "https://uiverse.io/cards",
+    "thumbnailUrl": "/thumbnails/uiverse-card-1.webp",
+    "tags": [
+      "glass",
+      "blur",
+      "frost"
+    ],
+    "styleType": "glassmorphism",
+    "framework": [
+      "html"
+    ],
+    "animationLevel": "subtle",
+    "darkModeSupport": true,
+    "embeddable": false
+  },
+  {
+    "id": "uiverse-input-1",
+    "name": "Underline Input",
+    "category": "input",
+    "library": "uiverse.io",
+    "libraryUrl": "https://uiverse.io",
+    "previewUrl": "https://uiverse.io/inputs",
+    "thumbnailUrl": "/thumbnails/uiverse-input-1.webp",
+    "tags": [
+      "focus",
+      "animated",
+      "clean"
+    ],
+    "styleType": "minimal",
+    "framework": [
+      "html"
+    ],
+    "animationLevel": "subtle",
+    "darkModeSupport": false,
+    "embeddable": false
+  },
+  {
+    "id": "uiverse-toggle-1",
+    "name": "Neumorphic Toggle",
+    "category": "input",
+    "library": "uiverse.io",
+    "libraryUrl": "https://uiverse.io",
+    "previewUrl": "https://uiverse.io/switches",
+    "thumbnailUrl": "/thumbnails/uiverse-toggle-1.webp",
+    "tags": [
+      "neumorphic",
+      "soft",
+      "switch"
+    ],
+    "styleType": "neumorphic",
+    "framework": [
+      "html"
+    ],
+    "animationLevel": "subtle",
+    "darkModeSupport": false,
+    "embeddable": false
+  },
+  {
+    "id": "uiverse-checkbox-1",
+    "name": "Bouncy Checkbox",
+    "category": "input",
+    "library": "uiverse.io",
+    "libraryUrl": "https://uiverse.io",
+    "previewUrl": "https://uiverse.io/checkboxes",
+    "thumbnailUrl": "/thumbnails/uiverse-checkbox-1.webp",
+    "tags": [
+      "spring",
+      "bounce",
+      "tick"
+    ],
+    "styleType": "animated",
+    "framework": [
+      "html"
+    ],
+    "animationLevel": "heavy",
+    "darkModeSupport": true,
+    "embeddable": false
+  }
+]
